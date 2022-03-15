@@ -1,4 +1,4 @@
-# Object detection using YOLOv5
+# Evaluation model object detection using YOLOv5
 
 ## Environment.
 - Python >= 3.6
